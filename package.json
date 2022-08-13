@@ -1,0 +1,24 @@
+{
+  "name": "@un-boxing-hosting/cosmic-vps-api",
+  "version": "1.0.0",
+  "description": "vps server api for cosmic ",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/un-boxing-hosting/cosmic-vps-api.git"
+  },
+  "author": "un-boxing-man/boxing-hosting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/un-boxing-hosting/cosmic-vps-api/issues"
+  },
+  "homepage": "https://github.com/un-boxing-hosting/cosmic-vps-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "child_process": "^1.0.2",
+    "morgan": "^1.10.0"
+  }
+}
