@@ -1,0 +1,4 @@
+{
+    "auth": "authtoken",
+    "port": "5000"
+}
